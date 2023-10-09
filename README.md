@@ -1,3 +1,6 @@
+#### 参考了OneMail
+    https://github.com/1175592624/OneMail/blob/main/OneMail%20v1.0_211105.py
+
 
 #### 前期准备
 1. 在电脑上安装Python3的运行环境 ==(该脚本依靠python运行)==
