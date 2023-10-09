@@ -1,5 +1,5 @@
 #### 参考了OneMail
-    https://github.com/1175592624/OneMail/blob/main/OneMail%20v1.0_211105.py
+    https://github.com/1175592624/OneMail
 
 
 #### 前期准备
